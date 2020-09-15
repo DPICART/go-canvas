@@ -1,0 +1,3 @@
+# /api
+
+OpenAPI & Swagger specs, Json schema etc...
